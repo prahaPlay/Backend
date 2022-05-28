@@ -4,7 +4,7 @@ public class test1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("초기1단계");
+		System.out.println("초기화 후 1단계");
 	}
 
 }
